@@ -7,7 +7,7 @@
 보다 더 쉽게 예산을 관리 할 수 있다.
 
 ## 구현
-<p align="center"><img src="https://user-images.githubusercontent.com/61879996/90954978-7e27b880-e4b4-11ea-8e56-88f581d99b27.PNG" width="500"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/61879996/90954981-82ec6c80-e4b4-11ea-9031-aabd9ecb555a.PNG" width="600"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/61879996/90954987-867ff380-e4b4-11ea-9725-26ceb4dd7e78.PNG" width="700"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/61879996/90954978-7e27b880-e4b4-11ea-8e56-88f581d99b27.PNG" width="700"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/61879996/90954981-82ec6c80-e4b4-11ea-9031-aabd9ecb555a.PNG" width="800"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/61879996/90954987-867ff380-e4b4-11ea-9725-26ceb4dd7e78.PNG" width="900"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/61879996/90954988-8a137a80-e4b4-11ea-87cc-ce796571d114.PNG"></p>
